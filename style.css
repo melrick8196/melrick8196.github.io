@@ -1,5 +1,5 @@
 body {
-  border-top: 3px solid #000000;
+
 }
 
 img {
@@ -7,11 +7,30 @@ img {
 }
 
 #text{
+    text-align: center;
   margin-top: 25px;
-  font-family: 'Cousine', monospace;
+ font-family: 'Roboto Mono', monospace;
   font-size: 20px;
 }
+.navbar {
 
-footer{
-  border-bottom: 20px solid #000000;
+}
+
+.navbar li a {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+}
+
+#hello{
+    text-align: center;
+  margin-top: 25px;
+  font-family: 'Cousine', monospace;
+  font-size: 80px;
+}
+
+#list{
+  margin-top: 25px;
+ font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
 }
