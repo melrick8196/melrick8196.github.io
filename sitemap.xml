@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://melrick8196.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://melrick8196.github.io/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/resume/</loc>
+    <loc>https://melrick8196.github.io/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://melrick8196.github.io/resume/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://melrick8196.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://melrick8196.github.io/</loc>
+  </url><url>
+    <loc>https://melrick8196.github.io/tags/</loc>
   </url>
 </urlset>
